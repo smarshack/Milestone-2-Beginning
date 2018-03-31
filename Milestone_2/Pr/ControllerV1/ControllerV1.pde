@@ -52,5 +52,5 @@ print(",");
 print(x);
 print(",");
 println(y);
-delay(25);
+delay(30);
 }
